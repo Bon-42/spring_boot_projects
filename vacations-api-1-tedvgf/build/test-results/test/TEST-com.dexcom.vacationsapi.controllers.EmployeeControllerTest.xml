@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-07-09T19:47:17" hostname="Yantra.local" time="0.257">
+  <properties/>
+  <testcase name="testGetVacationRequestsByStatus()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.173"/>
+  <testcase name="testCreateVacationRequestSuccess()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.039"/>
+  <testcase name="testCreateVacationRequestServerError()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.012"/>
+  <testcase name="testCreateVacationRequestBadRequest()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.008"/>
+  <testcase name="testGetVacationRequests()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.009"/>
+  <testcase name="testGetRemainingVacationDays()" classname="com.dexcom.vacationsapi.controllers.EmployeeControllerTest" time="0.008"/>
+  <system-out><![CDATA[2024-07-09T13:47:17.595-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.595-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.597-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-07-09T13:47:17.686-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.686-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.687-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-07-09T13:47:17.724-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.725-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.725-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-07-09T13:47:17.735-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.735-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.735-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-07-09T13:47:17.745-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.745-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.745-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-07-09T13:47:17.754-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2024-07-09T13:47:17.755-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-07-09T13:47:17.755-06:00  INFO 92968 --- [vacations-api-1-tedvgf] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

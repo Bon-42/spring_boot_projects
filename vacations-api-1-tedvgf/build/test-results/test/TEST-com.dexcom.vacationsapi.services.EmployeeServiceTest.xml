@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dexcom.vacationsapi.services.EmployeeServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-07-09T19:47:17" hostname="Yantra.local" time="0.113">
+  <properties/>
+  <testcase name="testGetRemainingVacationDays_EmployeeNotFound()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.099"/>
+  <testcase name="testCreateVacationRequest_DuplicateRequest()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.002"/>
+  <testcase name="testGetVacationRequestsByStatus()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.001"/>
+  <testcase name="testCreateVacationRequest_NotEnoughDays()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.001"/>
+  <testcase name="testGetVacationRequests()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.001"/>
+  <testcase name="testGetRemainingVacationDays()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.001"/>
+  <testcase name="testCreateVacationRequest_Success()" classname="com.dexcom.vacationsapi.services.EmployeeServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dexcom.vacationsapi.services.ManagerServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-07-09T19:47:17" hostname="Yantra.local" time="0.012">
+  <properties/>
+  <testcase name="testGetEmployeeVacationOverview()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.002"/>
+  <testcase name="testProcessVacationRequest_Forbidden()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.001"/>
+  <testcase name="testProcessVacationRequest_Success()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.002"/>
+  <testcase name="testGetVacationRequestsByStatus()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.001"/>
+  <testcase name="testGetAllVacationRequests()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.001"/>
+  <testcase name="testProcessVacationRequest_AlreadyProcessed()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.001"/>
+  <testcase name="testGetOverlappingRequests()" classname="com.dexcom.vacationsapi.services.ManagerServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
