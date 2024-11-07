@@ -18,7 +18,6 @@ public class Controller {
 
     @GetMapping("/sunrises")
    Result all() throws Exception {
-        log.info("Getting info for sunrise time !");
         return  callExternalApi.getSunriseInfo(restTemplate);
 
     }

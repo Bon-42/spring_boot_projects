@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SunriseApplication {
 
 	public static void main(String[] args) {
-		log.info("Main Application started !");
 		SpringApplication.run(SunriseApplication.class, args);
 	}
 
